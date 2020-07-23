@@ -76,7 +76,9 @@ def get_times(implementation, samples=10):
 
 La función `get_times` recibe como parámetros la implementación (recursiva o dinámica) y el número de muestras a recolectar, retorna un arreglo de tuplas con el número de la secuencia que se calculó y su respectivo tiempo de ejecución:
 
-images in progress ...
+![](documentation/recursive.png)
+
+![](documentation/dynamic.png)
 
 
 
